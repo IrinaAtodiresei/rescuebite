@@ -17,11 +17,10 @@ I built RescueBite as a NoSQL Databases project for my master's program at the B
 ### Reporting dashboard
 <img width="1279" height="581" alt="image" src="https://github.com/user-attachments/assets/82d93a1e-bd1d-45f2-9c0d-53c55ba8c643" />
 
-![RescueBite reporting dashboard with pickup metrics and revenue by partner](screenshots/reports.png)
 
 ### Offer catalog
+<img width="1279" height="577" alt="image" src="https://github.com/user-attachments/assets/064b364b-1c23-4b76-9581-314d299c90b0" />
 
-![RescueBite offer catalog with category filters, discounted prices, and stock](screenshots/offers.png)
 
 ## Tech stack
 
